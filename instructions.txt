@@ -1,0 +1,24 @@
+
+
+
+while speaking u need to say 
+
+3 + 2 + 8 for addition
+
+to print table u can say
+
+table of 8
+
+for multiplication u can 8 into 9
+
+to search any query u can speak
+
+search songs or serach humidity etc
+
+to open settings just speak settings
+
+to open any image, txt, doc or pdf file then just put file in E directory and then speak
+
+open filename and u dont need to say .txt or .jpg just speak file name
+
+to enable or disable wify just speak wi-fy on or off 
